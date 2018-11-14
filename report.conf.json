@@ -1,0 +1,9 @@
+{
+  "reporterEnabled": "mocha-jenkins-reporter,mochawesome-screenshots",
+  "mochaJenkinsReporterReporterOptions": {
+    "junit_report_path": "reports/JUnitResult.xml"
+  },
+  "mochawesomeScreenshotsReporterOptions": {
+    "reportDir": "reports"
+  }
+}

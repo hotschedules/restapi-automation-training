@@ -1,0 +1,295 @@
+[
+  {
+    "namespace": "clarifi",
+    "aboveStoreUser": {
+      "userName": "admin__clarifi",
+      "password": "admin__clarifi",
+      "aboveStore": "clarifi"
+    },
+    "storeLevelUser": {
+      "userName": "admin__clarifi",
+      "password": "admin__clarifi",
+      "storeName": "VN Store GMT+7",
+      "storeKey": "store_test"
+    }
+  },
+  {
+    "namespace": "itccsb",
+    "aboveStoreUser": {
+      "userName": "admin__itccsb",
+      "password": "admin__itccsb",
+      "aboveStore": "HotSchedules Clarifi"
+    },
+    "storeLevelUser": {
+      "userName": "admin__itccsb",
+      "password": "admin__itccsb",
+      "storeName": "Stone's Throw Brewing (132)",
+      "storeKey": "store_test_07"
+    }
+  },
+  {
+    "namespace": "true_food_kitchen_clarifi",
+    "aboveStoreUser": {
+      "userName": "admin__true_food_kitchen_clarifi",
+      "password": "admin__true_food_kitchen_clarifi",
+      "aboveStore": "True Food Kitchen Clarifi"
+    },
+    "storeLevelUser": {
+      "userName": "admin__true_food_kitchen_clarifi",
+      "password": "admin__true_food_kitchen_clarifi",
+      "storeName": "TFK - Biltmore (LAB)",
+      "storeKey": "tfk_-_biltmore_(lab)"
+    }
+  },
+  {
+    "namespace": "kms_qa_test",
+    "aboveStoreUser": {
+      "userName": "admin__kms_qa_test",
+      "password": "admin__kms_qa_test",
+      "aboveStore": "KMS"
+    },
+    "storeLevelUser": {
+      "userName": "admin__kms_qa_test",
+      "password": "admin__kms_qa_test",
+      "storeName": "VN Store GMT+7",
+      "storeKey": "store_test"
+    }
+  },
+  {
+    "namespace": "kms_qa_test2",
+    "aboveStoreUser": {
+      "userName": "admin__kms_qa_test2",
+      "password": "admin__kms_qa_test2",
+      "aboveStore": "KMS"
+    },
+    "storeLevelUser": {
+      "userName": "admin__kms_qa_test2",
+      "password": "admin__kms_qa_test2",
+      "storeName": "VN Store GMT+7",
+      "storeKey": "store_test"
+    }
+  },
+  {
+    "namespace": "kms_install_test",
+    "aboveStoreUser": {
+      "userName": "admin__kms_install_test",
+      "password": "admin__kms_install_test",
+      "aboveStore": "KMS"
+    },
+    "storeLevelUser": {
+      "userName": "admin__kms_install_test",
+      "password": "admin__kms_install_test",
+      "storeName": "VN Store GMT+7"
+    }
+  },
+  {
+    "namespace": "kmsstore",
+    "aboveStoreUser": {
+      "userName": "admin__kmsstore",
+      "password": "admin__kmsstore",
+      "aboveStore": "KMS Store"
+    },
+    "storeLevelUser": {
+      "userName": "admin__kmsstore",
+      "password": "admin__kmsstore",
+      "storeName": "VN Store GMT+7",
+      "storeKey": "store_test"
+    }
+  },
+  {
+    "namespace": "logans_roadhouse",
+    "aboveStoreUser": {
+      "userName": "admin__logans_roadhouse",
+      "password": "admin__logans_roadhouse",
+      "aboveStore": "logans_roadhouse"
+    },
+    "storeLevelUser": {
+      "userName": "admin__logans_roadhouse",
+      "password": "admin__logans_roadhouse",
+      "storeName": "Logan's Roadhouse 371 - Pilot",
+      "storeKey": "logansroadhouse371pilot"
+    }
+  },
+  {
+    "namespace": "salescustomdemo",
+    "aboveStoreUser": {
+      "userName": "admin__salescustomdemo",
+      "password": "admin__salescustomdemo",
+      "aboveStore": "Sales_custom_demo"
+    },
+    "storeLevelUser": {
+      "userName": "admin__salescustomdemo",
+      "password": "admin__salescustomdemo",
+      "storeName": "Store Test",
+      "storeKey": "store_test"
+    }
+  },
+  {
+    "namespace": "spinclarifi",
+    "aboveStoreUser": {
+      "userName": "admin__spinclarifi",
+      "password": "admin__spinclarifi",
+      "aboveStore": "spinclarifi"
+    },
+    "storeLevelUser": {
+      "userName": "admin__spinclarifi",
+      "password": "admin__spinclarifi",
+      "storeName": "SPiN - Seattle",
+      "storeKey": "SPiN_-_Seattle"
+    }
+  },
+  {
+    "namespace": "noodles_and_co",
+    "aboveStoreUser": {
+      "userName": "admin__noodles_and_co",
+      "password": "admin__noodles_and_co",
+      "aboveStore": "Noodles and Co"
+    },
+    "storeLevelUser": {
+      "userName": "admin__noodles_and_co",
+      "password": "admin__noodles_and_co",
+      "storeName": "Noodles 212 Green Bay",
+      "storeKey": "noodles_212_green_bay"
+    }
+  },
+  {
+    "namespace": "noodles_and_company_corp_clarifi_lab",
+    "aboveStoreUser": {
+      "userName": "admin__noodles_and_company_corp_clarifi_lab",
+      "password": "admin__noodles_and_company_corp_clarifi_lab",
+      "aboveStore": "Noodles and Company Corp Clarifi Lab"
+    },
+    "storeLevelUser": {
+      "userName": "admin__noodles_and_company_corp_clarifi_lab",
+      "password": "admin__noodles_and_company_corp_clarifi_lab",
+      "storeName": "Noodles 1002 Lab Console",
+      "storeKey": "noodles1002labconsole"
+    }
+  },
+  {
+    "namespace": "hs_sandbox_01",
+    "aboveStoreUser": {
+      "userName": "admin__hs_sandbox_01",
+      "password": "admin__hs_sandbox_01",
+      "aboveStore": "Internal Sandbox - 1"
+    },
+    "storeLevelUser": {
+      "userName": "admin__hs_sandbox_01",
+      "password": "admin__hs_sandbox_01",
+      "storeName": "Brandon's Bagels & Baguette's",
+      "storeKey": "brandonsbagelsbaguettes"
+    }
+  },
+  {
+    "namespace": "loganslabs",
+    "aboveStoreUser": {
+      "userName": "admin__loganslabs",
+      "password": "admin__loganslabs",
+      "aboveStore": "loganslabs"
+    },
+    "storeLevelUser": {
+      "userName": "admin__loganslabs",
+      "password": "admin__loganslabs",
+      "storeName": "Logan's Lab - N3 (Chris)",
+      "storeKey": "logansn3"
+    }
+  },
+  {
+    "namespace": "ipic_entertainment_for_clarifi",
+    "aboveStoreUser": {
+      "userName": "admin__ipic_entertainment_for_clarifi",
+      "password": "admin__ipic_entertainment_for_clarifi",
+      "aboveStore": "iPic Entertainment for Clarifi"
+    },
+    "storeLevelUser": {
+      "userName": "admin__ipic_entertainment_for_clarifi",
+      "password": "admin__ipic_entertainment_for_clarifi",
+      "storeName": "iPic - Lab - INVENTORY",
+      "storeKey": "labinventory"
+    }
+  },
+  {
+    "namespace": "clarififcdemo",
+    "aboveStoreUser": {
+      "userName": "admin__clarififcdemo",
+      "password": "admin__clarififcdemo",
+      "aboveStore": ""
+    },
+    "storeLevelUser": {
+      "userName": "admin__clarififcdemo",
+      "password": "admin__clarififcdemo",
+      "storeName": "Pita 'da Fool",
+      "storeKey": "noon_mediterranean"
+    }
+  },
+  {
+    "namespace": "solutions_full_service",
+    "aboveStoreUser": {
+      "userName": "admin__solutions_full_service",
+      "password": "admin__solutions_full_service",
+      "aboveStore": ""
+    },
+    "storeLevelUser": {
+      "userName": "admin__solutions_full_service",
+      "password": "admin__solutions_full_service",
+      "storeName": "Share's BBQ",
+      "storeKey": "shares_bbq"
+    }
+  },
+  {
+    "namespace": "sc_full_service_clarifi",
+    "aboveStoreUser": {
+      "userName": "admin__sc_full_service_clarifi",
+      "password": "admin__sc_full_service_clarifi",
+      "aboveStore": "SC Full Service Clarifi"
+    },
+    "storeLevelUser": {
+      "userName": "admin__sc_full_service_clarifi",
+      "password": "admin__sc_full_service_clarifi",
+      "storeName": "Gambit's",
+      "storeKey": "gambits"
+    }
+  },
+  {
+    "namespace": "solutions_quick_service",
+    "aboveStoreUser": {
+      "userName": "admin__solutions_quick_service",
+      "password": "admin__solutions_quick_service",
+      "aboveStore": ""
+    },
+    "storeLevelUser": {
+      "userName": "admin__solutions_quick_service",
+      "password": "admin__solutions_quick_service",
+      "storeName": "Solutions Quick Service",
+      "storeKey": "solutionsquickservice"
+    }
+  },
+  {
+    "namespace": "prod_qa_test",
+    "aboveStoreUser": {
+      "userName": "admin__prod_qa_test",
+      "password": "admin__prod_qa_test",
+      "aboveStore": "KMS"
+    },
+    "storeLevelUser": {
+      "userName": "admin__prod_qa_test",
+      "password": "admin__prod_qa_test",
+      "storeName": "VN Store GMT+7",
+      "storeKey": "store_test"
+    }
+  },
+  {
+    "namespace": "kms_qa_auto",
+    "aboveStoreUser": {
+      "userName": "admin__kms_qa_auto",
+      "password": "admin__kms_qa_auto",
+      "aboveStore": "KMS"
+    },
+    "storeLevelUser": {
+      "userName": "admin__kms_qa_auto",
+      "password": "admin__kms_qa_auto",
+      "storeName": "BY Store GMT+3",
+      "storeKey": "store_test_03"
+    }
+  }
+]

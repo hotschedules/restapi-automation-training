@@ -1,0 +1,20 @@
+# ignore folder node_modules
+node_modules
+
+# ignore folder idea
+\.idea
+
+# VS Code
+/.vscode
+/suiteCONF.js
+
+# reports
+/TestResultsXML
+/e2e/reports
+/scenarios/Count/InventoryItem/NGINV-6-Add-Inventory-Items.js
+reports
+package-lock.json
+9927
+
+# dist folder
+/dist

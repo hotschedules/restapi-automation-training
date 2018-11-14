@@ -1,0 +1,11 @@
+{
+  "env": "qa",
+  "namespace": "kms_qa_auto2",
+  "baseUrl": "https://inventory.bodhi-qa.io",
+  "bodhiUrl": "https://api.bodhi-qa.io",
+  "recipeUrl": "https://recipeapi.bodhi-qa.io",
+  "frontendUrl": "https://apps.bodhi-qa.io",
+  "storeKey": "store_test",
+  "cookieManager": null,
+  "securityMethod": "Cookie"
+}
