@@ -1,0 +1,27 @@
+{
+  "extends": [
+    "airbnb-base"
+  ],
+  "globals": {
+    "global": true
+  },
+  "env": {
+    "jasmine": true,
+    "protractor": true
+  },
+  "rules": {
+    "no-plusplus": "off",
+    "no-param-reassign": "off",
+    "eol-last": "off",
+    "comma-dangle": "off",
+    "no-restricted-properties": "off",
+    "no-unused-expressions": "off",
+    "object-curly-spacing": "off",
+    "arrow-body-style": "off",
+    "curly": "off",
+    "linebreak-style": "off",
+    "no-restricted-syntax": "off",
+    "no-underscore-dangle": "off",
+    "class-methods-use-this": "off"
+  }
+}
