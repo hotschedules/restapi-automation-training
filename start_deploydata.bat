@@ -1,0 +1,1 @@
+node_modules\.bin\mocha suite\deploydata.js --timeout 100000 --colors --reporter mocha-multi-reporters --reporter-options configFile=report.conf.json
