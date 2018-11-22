@@ -1,3 +1,3 @@
 require('../scenarios/login');
 
-require('../scenarios/Setup/Item/EXP_002_Example-2');
+require('../scenarios/Setup/Item/EXP_003_Example-3');
